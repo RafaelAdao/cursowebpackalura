@@ -1,6 +1,6 @@
 
 var campos = [
-    document.querySelector('#data'),
+    documen .querySelector('#data'),
     document.querySelector('#valor'),
     document.querySelector('#quantidade')
 ];
